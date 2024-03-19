@@ -1,0 +1,25 @@
+*{
+  color:rgb(234,89,99)              
+}
+
+h1{                              
+    background-color:#0000ff;              
+  color:orangered;                                            
+}                                                              
+
+
+#heading{
+    background-color: purple;
+    color: aqua;
+}                              
+
+#box{
+    color:rgb(89,66,239);
+    background-color:#ff679f;                   
+}
+
+
+.myclass{
+    color: peachpuff;
+    background-color:darkgreen;
+}
