@@ -1,0 +1,28 @@
+h1{
+    color: purple;
+    background-color: slateblue;
+    text-align: center;
+}
+body{
+    background-color: skyblue;
+ }
+
+h2{
+    color:brown;
+    text-align: left;
+    background-color:slateblue;
+}
+
+p{
+    text-align: left;
+}
+
+h3{
+   color:maroon;
+   background-color: slateblue;
+   text-align:left;
+}
+
+#para{
+    text-align: right;
+}
