@@ -1,0 +1,16 @@
+#box{
+    background-color: blue;
+}
+
+ .heading{                                        
+ color: red;
+}
+/* you can also do instead of taking "heading".
+
+ h1,h2,h3{}
+   color: red;    */
+
+
+   button{
+     background-color: green;
+   }
