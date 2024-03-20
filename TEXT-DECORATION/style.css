@@ -1,0 +1,42 @@
+body{
+    background-color: skyblue;
+
+}
+
+h1{
+    text-align: center;
+    text-decoration: black wavy underline;
+}
+
+p{
+    text-align: center;
+    text-decoration:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+#note{
+    text-decoration: line-through;
+
+}
+
+h3{
+text-decoration: overline ;
+}
+
+#text{
+    text-align: right;
+}
+
+h4{
+text-align: center;
+color: blueviolet;
+text-decoration:underline;
+}
+
