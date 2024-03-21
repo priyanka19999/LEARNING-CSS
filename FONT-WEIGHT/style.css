@@ -1,0 +1,30 @@
+h1{
+ text-align: center ;
+ text-decoration:wavy underline ;
+ font: weight 600px;
+ color: brown; 
+}
+
+body{
+    background-color:burlywood;
+    text-align: center;
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color:purple;
+    font-weight: bold;
+
+}
+
+h2{
+    color: brown;
+    text-decoration: underline;
+    font-weight:bold;
+}
