@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(78,96,45)
+}
+
+h1{
+    text-align: center;
+    text-decoration:double underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    font-size: 55px;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+p{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+   font-weight: bolder;
+   font-size: large;
+   text-transform: capitalize;
+   text-align: center;
+}
