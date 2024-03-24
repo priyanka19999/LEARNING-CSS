@@ -1,0 +1,42 @@
+.outer-box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 50px auto; /* Centers the box horizontally */
+  }
+  
+  .inner-box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: auto; /* Centers the inner box within the outer box */
+  }
+  
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; /* Creates a circle shape */
+  }
+  
+  .red {
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 15px;  
+  }
+  
+  .yellow {
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 15px;  
+    margin-left: 30px;
+  }
+  
+  .green {
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 15px;  
+  }
+
+  
