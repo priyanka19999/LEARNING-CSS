@@ -1,0 +1,46 @@
+div{
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 23px;
+    border-radius: 50%;
+    background-color: green;
+    text-align: center;
+    text-transform:capitalize ;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+
+}
+
+body{
+    background-color:#560920;
+}
+
+.box{
+    color: black;
+    background-color: bisque;
+    border-radius: 50%;
+    margin-top:0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+    height: 100px;
+    width: 100px;
+    text-transform: capitalize;
+    text-decoration:none ;
+    padding-left:100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 55px;
+    font-weight:bold;
+
+}
