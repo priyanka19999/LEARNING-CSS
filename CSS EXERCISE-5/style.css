@@ -1,0 +1,65 @@
+#navbar{
+    background-color:#0f1111;
+    height:  60px;
+}
+a{
+   color: white; 
+   font-size:normal;
+   margin-right: 200px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-decoration: none;
+   font-size: 25px;
+}
+
+body{
+    background-color: rgba(65,56,98,0.8)
+}
+
+#logo{
+    color:yellow;
+    font-size: 25px;;
+    font-family:'Times New Roman', Times, serif;
+}
+
+ placeholder{
+    margin-right : 200px;
+ }
+
+ button{
+   background-color: orange ;
+ }
+
+ .content1{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    background-color:rgba(45,87,90,0.5);
+    display: inline-block;
+ }
+
+
+ .content2{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    background-color:rgba(203, 238, 65, 0.5);
+    display: inline-block;
+ }
+
+ .content3{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    background-color:rgba(255,209,237,0.5);
+    display: inline-block;
+ }
+
+#box{
+ text-align: center;
+ display: inline-block;
+ font-size:small;
+ font-weight: 600;
+margin-top: 650px;
+padding-right:20px;
+background-color: black;
+ }
