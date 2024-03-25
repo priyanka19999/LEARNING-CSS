@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(98,09,76,0.5);
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+
+
+#box1{
+background-color: rgba(98,09,76,0.5);
+}
+
+#box2{
+    background-color: rgba(09,88,76,0.75);
+}
+#box3{
+    background-color: rgba(44,76,34,0.25);
+}
+#box4{
+ background-color: rgba(23,67,9,0.45);
+}
