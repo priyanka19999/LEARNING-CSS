@@ -1,0 +1,27 @@
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline; /*Takes only the space required by the element*/
+
+}
+
+
+#box2{
+    display: inline-block; /* it will allow margin and padding*/
+}
+
+#box3{
+    display: none;  /*it will remove the box3*/
+}
+
+#box4{
+    visibility: hidden;  /*it will create reserved space*/
+}
+
+#box6{
+    color: white;
+    display:block; /*Takes full space available in width*/
+}
