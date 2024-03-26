@@ -1,0 +1,64 @@
+#box1{
+    background-color: green;
+    height:100px;
+    width: 100px;
+    font-size:44px;
+}
+
+#box2{
+    height: 50px;
+    width: 60%;
+    background-color: orangered;
+    font-size: 70%;      /*percentage*/
+}
+#box3{
+    background-color:blue;
+    height:50px;
+    width: 200px;
+    font-size: 22px;
+}
+#box4{
+    background-color:red;
+    height:100px;            
+    width: 200px;
+    font-size:2em;   /* 2 times of parent's font size*/
+}
+
+#box5{
+    background-color:brown;
+    height:100px;
+    width: 200px;
+    font-size: 30px;
+}
+
+
+#box6{           
+    background-color:purple;
+    height:100px;
+    width: 200px;
+    font-size: 1rem;  /* 1 times of root element's font size or same*/
+}
+
+#box7{
+    background-color:maroon;
+    height:500px;
+    width: 400px;
+    font-size:10vh  /* 10vh means font size will be 10% height of browser height*/
+}
+
+
+#box8{
+    background-color:black;
+    color: white;
+    height:100vh;  
+    display:inline-block;
+    width:100vw;    /*  width will be 100% of browser width*/
+    font-size: 50vh;  /* font size will be 50% of brower's height*/
+}
+
+
+
+
+
+
+
