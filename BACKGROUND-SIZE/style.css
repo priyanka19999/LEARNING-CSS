@@ -1,0 +1,25 @@
+
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+ #b{
+    background-image: url("travel.jpg.jpg");
+    background-size: cover;
+    
+}
+
+#s{
+    background-image: url("photo.jpg.jpg");
+    background-size: contain;
+}
+    
+
+#i{
+    background-image: url("car.jpg.jpg");
+    background-size: auto;
+}
