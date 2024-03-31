@@ -1,0 +1,13 @@
+body{
+    background-image: url(spring.jpg.jpg);
+    text-align: center;
+}
+
+p{
+    font-size: 27px;
+    color:black;
+}
+
+h1{
+    text-decoration:wavy underline;
+}
