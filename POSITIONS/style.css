@@ -1,0 +1,76 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#navbar{
+    background-color: black;
+    height: 30px;
+    width:100vw;
+    position: fixed;           /*fixed is used*/
+}
+
+a{
+    color: aliceblue;
+    font-size:23px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+body{
+    background-color: beige;
+}
+
+#logo{
+    color: yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+button{
+    background-color: bisque;
+}
+::placeholder{
+ text-transform: capitalize;
+}
+
+p{
+    position:static;                /*static is used*/
+    text-transform: capitalize;
+    color: blueviolet;
+}
+
+img{
+    position: sticky;               /*sticky is used*/
+}
+footer{
+    width:100vw;
+    height:50px;
+    background-color: black;
+    border: 2px solid black;
+    text-align: center;
+    color:white;
+}
+
+#box1{
+    color: brown;
+    background-color: green;
+    text-align: center;
+}
+
+#lorem{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    background-color: red;
+    position: relative;              /*relative is used*/
+    display: inline-block;
+
+}
+#lorem1{
+    height:100px;
+    width:90px;
+    border: 2px solid black;
+    background-color:green; 
+    position: absolute;                /*absolute is used*/
+    display: inline-block;
+}
