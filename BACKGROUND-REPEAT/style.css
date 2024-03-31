@@ -1,0 +1,53 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+ #b{
+    background-image: url("travel.jpg.jpg");
+    background-size: contain;
+    background-repeat:round;
+    
+}
+
+#s{
+    background-image: url("photo.jpg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+    
+
+#i{
+    background-image: url("car.jpg.jpg");
+    background-size:contain;
+    background-repeat:initial;
+}
+
+#k{
+    background-image: url("tree.jpg.jpg");
+    background-size:cover;
+    background-repeat:repeat-x;
+}
+
+#f{
+    background-image: url("beach.jpg.jpg");
+    background-size:auto;
+    background-repeat:repeat-y;
+
+}
+
+#z{
+    background-image: url("travel.jpg.jpg");
+    background-size:cover;
+    background-repeat:repeat;
+
+}
+
+#n{
+    background-image: url("photo.jpg.jpg");
+    background-size:cover;
+    background-repeat:space;
+}
