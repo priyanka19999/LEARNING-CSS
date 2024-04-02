@@ -1,0 +1,28 @@
+div{
+    height:100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#container{
+    height: 500px;
+    width: 500px;
+    display:flex;
+    flex-direction: row-reverse;
+
+}
+
+#container1{
+    height: 500px;
+    width: 500px;
+    display:flex;
+    flex-direction:column;
+
+}
+
+#container2{
+    height: 500px;
+    width: 500px;
+    display:flex;
+    flex-direction:column-reverse;
+}
