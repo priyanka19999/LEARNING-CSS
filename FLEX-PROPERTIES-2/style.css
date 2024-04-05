@@ -1,0 +1,33 @@
+body{
+     text-align: center;
+}
+
+
+div{
+     height: 100px;
+     width: 100px;
+     border: 2px solid black;
+}
+
+#container{
+     background-color:whitesmoke;
+     height: 800px;
+     width: 800px;
+     display:flex;
+}
+
+#box1{
+     align-self: center;
+}
+
+#box2{
+     align-self: flex-end;
+      flex-shrink:2;
+     
+}
+
+
+#box3{
+     align-self:center;
+     flex-grow: 3;
+}
