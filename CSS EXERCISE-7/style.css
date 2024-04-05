@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color:aqua;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+ list-style-type: disc;
+ display: inline;
+}
+/*Q-2*/
+.outer{
+    height: 600px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+    align-items: center;
+}
+
+.inner{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    align-items: center;
+    background-color: crimson;
+}
+
+
+/*Q-3*/ /* answer : align self has more priority*/
+
+.outer1{
+    height: 600px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    background-color:darkred;
+    align-items: center;
+}
+    .inner1{
+        height: 100px;
+        width: 100px;
+        border: 2px solid black;
+        display: flex;
+        justify-content: center;
+        background-color:black;
+        align-items: center;
+
+.outer1{
+    display: flex;
+    align-self: flex-start;
+}
+.inner{
+   display: flex;
+    align-items: flex-end;
+} 
+    }
