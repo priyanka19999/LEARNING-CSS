@@ -1,0 +1,38 @@
+div{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    background-color: brown;
+}
+@media(width:600px){
+    div{
+        background-color: blueviolet;
+    }
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    background-color:crimson
+}
+
+@media( min-width:400px){
+    #box2{
+        background-color:darkgreen;
+    }
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    background-color:darkslategray
+}
+
+@media( min-width:100px) and (max-width:500px) {
+   
+    #box3{
+        background-color:hotpink;
+    }
+}
