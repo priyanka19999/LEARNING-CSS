@@ -1,0 +1,46 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.box1{
+    background-color: brown;
+    transition:  background-color 3s ease-in-out 0s;
+}
+.box1:hover{
+    background-color: blueviolet;
+}
+
+.box2{
+    background-color:aqua;
+    transition: background-color 2s ease-in 1s;
+}
+.box2:hover{
+    background-color: blue;
+}
+
+ .box3{
+    background-color:bisque;
+    transition: background-color 2s ease-out 3s;
+}
+.box3:hover{
+    background-color:crimson;
+}
+
+.box4{
+    background-color:deeppink;
+    transition: background-color 1s linear 0.5s;
+}
+.box4:hover{
+    background-color:navy;
+}
+
+.box5{
+    background-color:orangered;
+    transition: background-color 0.4s ease 0.25s;
+}
+.box5:hover{
+    background-color:olivedrab;
+}
