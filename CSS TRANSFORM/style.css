@@ -1,0 +1,27 @@
+div{
+height: 100px;
+width: 100px;
+border: 2px solid black;
+display: inline-block;
+}
+.box1{
+    background-color: blueviolet;
+    transform: rotate(50deg);
+    position: relative;
+}
+
+.box2{
+    background-color: coral;
+    transform: scale(1,1);
+    
+}
+
+.box3{
+    background-color: brown;
+    transform:translate(80px,130px);
+}
+
+.box4{
+    background-color: cadetblue;
+    transform:skew(20deg) ;
+}
